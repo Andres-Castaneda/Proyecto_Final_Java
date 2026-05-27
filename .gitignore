@@ -1,0 +1,13 @@
+# Carpetas de construcción de Maven (No se deben subir)
+target/
+
+# Archivos de configuración de VS Code y otros IDEs
+.settings/
+.classpath
+.project
+.metadata/
+.vscode/
+
+# Logs y archivos temporales
+*.log
+*.tmp
