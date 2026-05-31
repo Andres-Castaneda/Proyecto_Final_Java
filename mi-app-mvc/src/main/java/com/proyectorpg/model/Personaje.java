@@ -80,4 +80,8 @@ public abstract class Personaje {
     }
 
     public abstract String habilidad();
+    
+    public void subirNivel() {
+        this.nivel++;
+    }
 }
